@@ -1,0 +1,11 @@
+# Directories
+**/bin
+**/lib
+**/__pycache__
+
+**/.vscode
+
+
+# Files
+*.cfg
+
